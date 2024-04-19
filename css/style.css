@@ -147,6 +147,14 @@ a:active {
   gap: 20px;
 }
 
+#Geography img {
+  width: 100%;
+  height: auto;
+  grid-column: 2;
+  object-fit: cover;
+  justify-self: center;
+}
+
 #Government .text-content {
   font-size: 15px;
   max-width: 900px;
